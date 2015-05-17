@@ -7,8 +7,8 @@
   },
   {
     "remote": "msm7x30",
-    "repository": "LegacyXperia/android_device_semc_msm7x30-common",
-    "target_path": "device/semc/msm7x30-common",
+    "repository": "msm7x30/android_device_qcom_msm7x30-common",
+    "target_path": "device/qcom/msm7x30-common",
     "revision": "cm-12.1"
   },
   {
